@@ -141,6 +141,7 @@ while True:
     
     if directions == "q":
             stop_threads2 = True
+            port1.close()
             break   
     
     # if GeoFence.contains(RobotCoord) == True:
