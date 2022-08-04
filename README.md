@@ -4,3 +4,4 @@ in this inital part you are creating the geofence, after you drive in the shape 
 creates the fence. Now you can drive as before but if you exit the fence you will lose control of the robot and it will back itself
 back into the fence before handing back control to you. press q to exit like before. 
 the arduino code that controlls the motor controller and servos is included.
+the code titled heading included is not finished and will not work properly
